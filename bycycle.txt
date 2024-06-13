@@ -1,1 +1,2 @@
 signup page must be in colourful
+with proper user detais
